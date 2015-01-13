@@ -1,0 +1,23 @@
+{
+  "name": "classpro",
+  "version": "0.1.0",
+  "description": "my ticket to get one million dollars from investor",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "Siya Kalidas Wadji siyawadji1994@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "path": "^0.11.14"
+  },
+  "devDependencies": {}
+}
